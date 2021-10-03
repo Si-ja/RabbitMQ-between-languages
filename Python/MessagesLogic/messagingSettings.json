@@ -1,0 +1,13 @@
+{
+  "RabbitMQ": {
+    "Local": "localhost",
+    "Prod": "rabbit"
+  },
+  "Queues": {
+    "Python_Request": "Python_Request",
+
+    ".NET_Response": ".NET_Response",
+    "Java_Response": "Java_Response",
+    "Python_Response": "Python_Response"
+  }
+}
